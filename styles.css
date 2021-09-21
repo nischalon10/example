@@ -21,17 +21,8 @@ button{
     font-size: larger;
 }
 
-body{
-    margin: 0%;
-    padding: 0%;
-    }
-
-.container2{ 
-    background-color: burlywood;
-    margin: 15em;
-    padding: 10em;
-    border-radius: 3em;
-    border: 0.5em solid black;
-} 
+h1{
+    color: grey;
+}
 
 
