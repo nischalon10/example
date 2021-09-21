@@ -13,4 +13,12 @@ body{
     border: .5em solid black;
 }
 
+button{
+    /* padding: .5em; */
+    border-radius: 50vh;
+    background-color: black;
+    color: gainsboro;
+    font-size: larger;
+}
+
 
