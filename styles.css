@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: gainsboro;
+    text-align: center;
+    font-family: 'Segoe UI';
+    margin: 10em;
+    padding: 5em;
+    border-radius: 2em;
+    border: .5em solid black;
+}
+
+
